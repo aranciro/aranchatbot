@@ -1,0 +1,17 @@
+twitchAuth:
+  accessToken:
+  clientId:
+  clientSecret:
+bot:
+  name:
+  gender:
+  owners:
+  channelName:
+  ignored:
+  language:
+  initPrompt:
+  msgPrompt:
+  quietInit:
+apiServer:
+  host: localhost
+  port: 3000
